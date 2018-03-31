@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roberguerrero/P2_Quiz.git"
+    "url": "git+https://github.com/luulaila/P2_Quiz.git"
   },
   "keywords": [
     "quiz",
     "core",
     "node"
   ],
-  "author": "Roberto Guerrero Valdes",
+  "author": "Lourdes Manzano Pérez",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/roberguerrero/P2_Quiz/issues"
+    "url": "https://github.com/luulaila/P2_Quiz/issues"
   },
-  "homepage": "https://github.com/roberguerrero/P2_Quiz#readme",
+  "homepage": "https://github.com/luulaila/P2_Quiz#readme",
   "dependencies": {
     "chalk": "^2.3.1",
     "figlet": "^1.2.0",
