@@ -271,7 +271,7 @@ exports.playCmd = (socket, rl) => {
 
 exports.creditsCmd = (socket, rl) => {
 	log(socket, "Autor de la práctica:");
-	log(socket, "Roberto Guerrero Valdés", 'green');
+	log(socket, "Lourdes Manzano Pérez", 'green');
 	rl.prompt();
 };
 
